@@ -1,0 +1,10 @@
+{
+  "AUTOCOMPLETE_WHISPER": {
+    "Settings": {
+      "IncludeGMNames": {
+        "Name": "Benutzernamen der Spielleiter auflisten",
+        "Hint": "Wenn aktiviert, erscheinen die Benutzernamen aller Benutzer mit der Rolle Spielleiter im Menü der Flüster-Ziele. Wenn deaktiviert, enthält das Menü weiterhin \"GM\" (damit werden alle Spielleiter gleichzeitig angeflüstert). Das brauchst du vermutlich nur in Spielen mit mehreren Spielleitern."
+      }
+    }
+  }
+}

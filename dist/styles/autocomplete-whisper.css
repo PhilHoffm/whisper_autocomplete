@@ -1,0 +1,20 @@
+/* Typeahead preview, placed behind the cursor of the chat input. */
+.acw-ghost {
+    position: absolute;
+    z-index: 1;
+    white-space: pre;
+    color: var(--color-text-primary);
+    opacity: 0.5;
+    pointer-events: none;
+    user-select: none;
+}
+
+/* Entries of the whisper target menu (Foundry's native #autocomplete menu). */
+#autocomplete .acw-entry .acw-icon {
+    margin-inline-end: 0.5em;
+    opacity: 0.7;
+}
+
+#autocomplete .acw-entry strong {
+    color: var(--color-text-emphatic);
+}

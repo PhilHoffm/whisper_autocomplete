@@ -1,0 +1,10 @@
+{
+  "AUTOCOMPLETE_WHISPER": {
+    "Settings": {
+      "IncludeGMNames": {
+        "Name": "Include GM Usernames List",
+        "Hint": "If enabled, the username(s) of any user with the Gamemaster role will appear in the pop-up menu of whisper targets. If disabled, the menu still includes \"GM\" (which targets all Gamemaster users at once). You probably only need to check this if playing a game with multiple GM roles."
+      }
+    }
+  }
+}

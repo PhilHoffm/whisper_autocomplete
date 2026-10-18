@@ -1,0 +1,10 @@
+/unused
+*.lock
+node_modules
+/releases
+/archive
+mod.config
+myREADME.md
+
+_backup
+.DS_Store

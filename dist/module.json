@@ -1,0 +1,42 @@
+{
+  "id": "autocomplete-whisper",
+  "title": "Autocomplete Whisper",
+  "description": "Whisper quicker with typeahead autocomplete suggestions and a popup menu of whisper targets.",
+  "authors": [
+    {
+      "name": "orcnog",
+      "flags": {}
+    },
+    {
+      "name": "PhilHoffm",
+      "url": "https://github.com/PhilHoffm",
+      "flags": {}
+    }
+  ],
+  "version": "3.0.0",
+  "esmodules": [
+    "scripts/autocomplete-whisper.mjs"
+  ],
+  "styles": [
+    "styles/autocomplete-whisper.css"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "languages/en.json"
+    },
+    {
+      "lang": "de",
+      "name": "Deutsch",
+      "path": "languages/de.json"
+    }
+  ],
+  "url": "https://github.com/PhilHoffm/whisper_autocomplete/",
+  "manifest": "https://github.com/PhilHoffm/whisper_autocomplete/releases/download/v3.0.0/module.json",
+  "download": "https://github.com/PhilHoffm/whisper_autocomplete/releases/download/v3.0.0/autocomplete-whisper-v3.0.0.zip",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14.369"
+  }
+}
